@@ -1,0 +1,81 @@
+/* items */
+a {
+  color:black;
+}
+a:hover {
+  color:grey;
+}
+button {
+color: blue;
+width: auto;
+  background-color: blue;
+  text-decoration-color: blue;
+}
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h4 {
+  font-family: 'Roboto', sans-serif;
+}
+img:hover {
+  opacity: 0.7;
+}
+/* class */
+.blue {
+  color: blue;
+}
+.center {
+  text-align:center;
+}
+.card {
+  margin-bottom: 30px;
+}
+.left {
+  text-align: left;
+  margin-left: 10px;
+}
+.menuBorder {
+  border-left: solid 2px black;
+  border-right: solid 2px black;
+}
+.mt40 {
+    margin-top: 40px;
+}
+.pink {
+  color: #FF4081;
+}
+.review {
+
+}
+.reviewer {
+  font-style: italic;
+  color: #ff4081;
+}
+.right {
+  text-align: right;
+  margin-right: 10px;
+}
+/* id's */
+#title {
+  position:fixed;
+  text-align: center;
+  height: 90px;
+  background-color: white;
+  width:100%;
+  text-align: center;
+  overflow: scroll;
+  z-index: 999;
+}
+#background {
+  background-color: black;
+}
+#linkedin {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#margin-pull {
+  margin-top: -10px;
+}
+#icon {
+    margin-top: : 50px;
+}
